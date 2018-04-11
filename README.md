@@ -1,4 +1,2 @@
 # Metric
-I wonder if people will actually validify this or not.
-
-I hope ya'll like books.
+I hope you all like Alice in Wonderland as much as the next hacker.
